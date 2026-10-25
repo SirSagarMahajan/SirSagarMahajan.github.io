@@ -9,6 +9,10 @@ I teach **Data Structures & Algorithms (DSA)** to Mechanical students and **Soft
 
 ➡️ **[DSA for Mechanical Engineers Course Hub](https://github.com/SirSagarMahajan/DSA-for-Mechanical)** *((https://github.com/SirSagarMahajan/DSA-for-Mechanical))*
 
+
+➡️ **[Software Engineering for IT/COMP/AI Course Hub](https://github.com/SirSagarMahajan/Software-Engineering-)** *((https://github.com/SirSagarMahajan/Software-Engineering-))*
+
+
 ### 🎥 For YouTube Viewers
 Code and resources from my videos:
 ➡️ **[YouTube Resources](https://github.com/SirSagarMahajan/youtube-resources)** *(https://www.youtube.com/@SirSagarMahajan)*

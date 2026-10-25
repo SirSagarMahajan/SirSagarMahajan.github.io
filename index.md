@@ -1,19 +1,19 @@
 <style>
-  
+  /* This sets the background image and adds an 85% white overlay so text is readable */
   body {
-    background-image: url('https://github.com/SirSagarMahajan/SirSagarMahajan.github.io/blob/main/leg.jpg?raw=true');
+    background-image: linear-gradient(rgba(255, 255, 255, 0.88), rgba(255, 255, 255, 0.88)), url('https://github.com/SirSagarMahajan/SirSagarMahajan.github.io/blob/main/leg.jpg?raw=true');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
     background-repeat: no-repeat;
   }
   
- 
-  .main-content {
-    background-color: rgba(255, 255, 255, 0.92) !important; 
-    border-radius: 15px;
-    box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+  /* This creates a solid white box behind your text so it pops */
+  .wrapper, .page-content, .main-content {
+    background-color: #ffffff !important;
+    border-radius: 10px;
     padding: 30px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
   }
 </style>
 
@@ -44,4 +44,3 @@ Looking for the code from my latest video? Check the YouTube Resources repositor
 <p align="center">
   Made with ❤️ for my students and viewers.
 </p>
-

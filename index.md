@@ -9,8 +9,7 @@
   text-shadow: 2px 2px 4px rgba(0,0,0,0.8);
   margin-bottom: 30px;
 ">
-  <h1 style="font-size: 3em; margin-bottom: 10px;">Sir Sagar Mahajan</h1>
-  <p style="font-size: 1.2em;">Mechanical Engineering Educator & YouTube Creator</p>
+  
 </div>
 
 ---

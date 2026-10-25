@@ -1,5 +1,5 @@
 <div style="
-  background-image: url('PASTE_YOUR_IMAGE_LINK_HERE'); 
+  background-image: url('https://github.com/SirSagarMahajan/SirSagarMahajan.github.io/blob/main/bg.jpg?raw=true'); 
   background-size: cover; 
   background-position: center; 
   padding: 80px 20px; 

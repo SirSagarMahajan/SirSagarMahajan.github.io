@@ -12,8 +12,8 @@ All course presentations, notes, and lab code for **Data Structures & Algorithms
 
 ## 🎥 For YouTube Viewers
 Looking for the code from my latest video? Check the YouTube Resources repository:
-➡️ **[Click here for YouTube Resources](https://youtube.com/@SirSagarMahajan)**
+➡️ **[Click here for YouTube Resources](https://www.youtube.com/@SirSagarMahajan)**
 
 ## 🔗 Elsewhere
-- **YouTube:** [@SirSagarMahajan](https://www.youtube.com/@SirSagarMahajan)
+- **YouTube Channel:** [@SirSagarMahajan](https://www.youtube.com/@SirSagarMahajan)
 - **Email:** sirsagarmahajan@gmail.com

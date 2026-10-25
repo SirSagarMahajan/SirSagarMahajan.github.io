@@ -11,7 +11,7 @@ I teach **Data Structures & Algorithms (DSA)** to Mechanical students and **Soft
 
 ### 🎥 For YouTube Viewers
 Code and resources from my videos:
-➡️ **[YouTube Resources](https://github.com/SirSagarMahajan/youtube-resources)** *(Link to be added soon)*
+➡️ **[YouTube Resources](https://github.com/SirSagarMahajan/youtube-resources)** *(https://www.youtube.com/@SirSagarMahajan)*
 
 ### 🛠️ What I Work With
 `Python` `C++` 

@@ -1,3 +1,22 @@
+<style>
+  
+  body {
+    background-image: url('https://github.com/SirSagarMahajan/SirSagarMahajan.github.io/blob/main/leg.jpg?raw=true');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+  }
+  
+ 
+  .main-content {
+    background-color: rgba(255, 255, 255, 0.92) !important; 
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+    padding: 30px;
+  }
+</style>
+
 <p align="center">
   <img src="https://github.com/SirSagarMahajan/SirSagarMahajan.github.io/blob/main/bg.jpg?raw=true" 
        alt="Sir Sagar Mahajan Banner" 
@@ -25,3 +44,4 @@ Looking for the code from my latest video? Check the YouTube Resources repositor
 <p align="center">
   Made with ❤️ for my students and viewers.
 </p>
+

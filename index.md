@@ -7,10 +7,10 @@
 ---
 
 ## 📚 For My Students
-All course presentations for **Data Structures & Algorithms** live here:
+1. All course presentations for **Data Structures & Algorithms** :
 ➡️ **[Click here to view the DSA Course Material](https://github.com/SirSagarMahajan/DSA-for-Mechanical)**
 
-All course presentations for **Software Engineering** live here:
+2. All course presentations for **Software Engineering** :
 ➡️ **[Click here to view the Software Engineering Material](https://github.com/SirSagarMahajan/Software-Engineering-)** 
 
 ## 🎥 For YouTube Viewers

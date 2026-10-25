@@ -2,14 +2,11 @@
   background-image: url('https://github.com/SirSagarMahajan/SirSagarMahajan.github.io/blob/main/bg.jpg?raw=true'); 
   background-size: cover; 
   background-position: center; 
-  padding: 80px 20px; 
+  height: 250px; /* Adjust this number to make the banner taller or shorter */
   border-radius: 15px; 
-  text-align: center; 
-  color: white;
-  text-shadow: 2px 2px 4px rgba(0,0,0,0.8);
   margin-bottom: 30px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
 ">
-  
 </div>
 
 ---
@@ -20,7 +17,7 @@ All course presentations, notes, and lab code for **Data Structures & Algorithms
 
 ## 🎥 For YouTube Viewers
 Looking for the code from my latest video? Check the YouTube Resources repository:
-➡️ **(https://www.youtube.com/@SirSagarMahajan)**
+➡️ **[Click here for YouTube Resources](https://www.youtube.com/@SirSagarMahajan)**
 
 ## 🔗 Elsewhere
 - **YouTube:** [@SirSagarMahajan](https://www.youtube.com/@SirSagarMahajan)

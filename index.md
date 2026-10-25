@@ -6,7 +6,7 @@
 
 ---
 
-## 📚 For My Students
+## 📚 For My Students ❤️❤️
 1. All course presentations for **Data Structures & Algorithms** :
 ➡️ **[Click here to view the DSA Course Material](https://github.com/SirSagarMahajan/DSA-for-Mechanical)**
 
@@ -20,3 +20,8 @@ Looking for the code from my latest video? Check the YouTube Resources repositor
 ## 🔗 Elsewhere
 - **YouTube Channel:** [@SirSagarMahajan](https://www.youtube.com/@SirSagarMahajan)
 - **Email:** sirsagarmahajan@gmail.com
+
+---
+<p align="center">
+  Made with ❤️ for my students and viewers.
+</p>

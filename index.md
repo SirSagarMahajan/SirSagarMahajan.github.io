@@ -26,7 +26,7 @@
 ---
 
 ## 📚 For My Students ❤️❤️
-1. All course presentations for **Data Structures & Algorithms** :
+1. All course presentations for **Data Structures & Algorithms with code of Experiments (with Turbo C Setup)** :
 ➡️ **[Click here to view the DSA Course Material](https://github.com/SirSagarMahajan/DSA-for-Mechanical)**
 
 2. All course presentations for **Software Engineering** :
